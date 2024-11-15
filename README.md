@@ -7,3 +7,8 @@ A simple Flutter  calculator app that displays tw textfields for number to let u
 
 Customizable Greeting: Users enter their name and receive a personalized greeting. UI Styling: The app features a black background, a yellow button, and a yellow-text input field. Toast Messages: Shows toast notifications if the input field is empty.
 
+#Screenshot:
+<img width="693" alt="Icreativez_flutter_calculator_app_snippet" src="https://github.com/user-attachments/assets/9725d09b-802b-47eb-8292-24720a7cdc22">
+
+
+
